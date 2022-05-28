@@ -1,0 +1,6 @@
+module Pods_sudoku_sudokuTests {
+  umbrella header "Pods-sudoku-sudokuTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
